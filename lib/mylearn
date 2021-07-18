@@ -1,0 +1,2 @@
+I had issues using Uri.encodeFull, I had to pass it into Uri.parse
+Note : Our json response comes as a string, we need to decode it into json list so that we can access it.
